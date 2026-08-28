@@ -7,11 +7,12 @@ echo "Today date is $(date +%F)"
 
 
 #if command but testing variable to compare numbers
-read -p "Enter a number: " a
+read -p "Enter a number: " b
 
-if [ "$a" -gt 5 ]; then 
-	echo "a is greater than 5"
+
+if [ "$b" -gt 5 ]; then 
+	echo "b is greater than 5"
 	else 
-		echo "a is not greater than 5"
+		echo "b is not greater than 5"
 fi 
 
