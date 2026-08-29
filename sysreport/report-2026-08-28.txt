@@ -1,0 +1,13 @@
+System Report
+Date: Fri Aug 28 07:24:23 PM CEST 2026
+Host: jamal
+User: jamal
+
+Disk:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p5  240G   20G  208G   9% /
+
+Services:
+ssh = inactive
+nginx = inactive
+cron = active
